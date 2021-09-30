@@ -1,8 +1,5 @@
 ﻿using System;
 using cAlgo.API;
-using cAlgo.API.Internals;
-using cAlgo.API.Indicators;
-using cAlgo.Indicators;
 
 namespace cAlgo
 {
